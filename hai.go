@@ -1,5 +1,5 @@
 package go_modul
 
-func Haiii() string {
-	return "Haiiii nuebie"
+func Haiii(nama string) string {
+	return "Haiiii " + nama
 }
